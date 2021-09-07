@@ -16,4 +16,4 @@ Inputs:
 * Chosen strategy (e.g. 2 stop, soft-soft-medium)
 
 Output:
-* predicted finishing position
+* Predicted finishing position
