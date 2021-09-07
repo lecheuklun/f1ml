@@ -11,7 +11,7 @@ Inputs:
 * Track (e.g. Austria, input as 'AUT')
 * Wet/dry race
 * Qualifying position (e.g. P7)
-* Driver (e.g. Raikonnen)
+* Driver (e.g. Raikonnen, input as 'RAI')
 * Chosen strategy (e.g. '32@4@' signifies soft 3 laps, hard 2 laps, hard 4 laps)
 
 Output:
