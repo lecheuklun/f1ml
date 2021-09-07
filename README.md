@@ -2,6 +2,8 @@
 
 A neural network that uses supervised learning on past races to predict a driver's finishing position!
 
+The net achieved 81% accuracy (to +/- 2 positions), compared to 57% with polynomial regression.
+
 https://www.hutch.io/our-games/f1-clash/
 
 ## Neural network
