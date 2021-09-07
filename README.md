@@ -2,6 +2,8 @@
 
 A neural network that uses supervised learning on past races to predict a driver's finishing position!
 
+Requires Deep Learning Toolbox.
+
 https://www.hutch.io/our-games/f1-clash/
 
 Most recent test script: test7.m
