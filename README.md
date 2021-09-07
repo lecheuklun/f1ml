@@ -4,7 +4,7 @@ A neural network that uses supervised learning on past races to predict a driver
 
 https://www.hutch.io/our-games/f1-clash/
 
-To run code, run test7.m on the editor on MATLAB! Requires Deep Learning Toolbox.
+To run code, run neural-network/test7.m on the editor on MATLAB! Requires Deep Learning Toolbox.
 
 Inputs: 
 * Track (e.g. Austria)
