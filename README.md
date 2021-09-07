@@ -1,4 +1,4 @@
-# F1 Neural Network Strategy Predictor
+# MATLAB F1 Neural Network Strategy Predictor 
 
 A neural network that uses supervised learning on past races to predict a driver's finishing position!
 
