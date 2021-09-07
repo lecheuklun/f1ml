@@ -4,14 +4,22 @@ A neural network that uses supervised learning on past races to predict a driver
 
 https://www.hutch.io/our-games/f1-clash/
 
+## Neural network
 To run code, run neural-network/test7.m on the editor on MATLAB! Requires Deep Learning Toolbox.
 
 Inputs: 
-* Track (e.g. Austria)
+* Track (e.g. Austria, input as 'AUT')
 * Wet/dry race
 * Qualifying position (e.g. P7)
 * Driver (e.g. Raikonnen)
-* Chosen strategy (e.g. 2 stop, soft-soft-medium)
+* Chosen strategy (e.g. '32@4@' signifies soft 3 laps, hard 2 laps, hard 4 laps)
 
 Output:
 * Predicted finishing position
+
+## Polynomial regression
+To run code, run regression/test6.m on the editor.
+
+Inputs:
+* Track (e.g. Vietnam, input as 'VIE')
+* Ensure strategy options (line 62) are correct
