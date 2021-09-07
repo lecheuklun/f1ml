@@ -1,3 +1,12 @@
-# f1ml
+# F1 Neural Network Strategy Predictor
 
-Hello! I will complete this in a sec
+Neural net
+
+Most recent test script: test7.m
+Inputs: 
+* Track (e.g. Austria)
+* Wet/dry race
+* Qualifying position (e.g. P7)
+* Driver (e.g. Raikonnen)
+* Chosen strategy (e.g. 2 stop, soft-soft-medium)
+Output: predicted finishing position
